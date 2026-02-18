@@ -5,7 +5,6 @@ export default function Quiz({ questions, onBack }) {
   const [score, setScore] = useState(0);
   const [picked, setPicked] = useState(null);
   const [done, setDone] = useState(false);
-  const [showOptions, setShowOptions] = useState(false);
   const [locked, setLocked] = useState(false);
 
   const q = done ? null : questions[index];
@@ -38,7 +37,6 @@ export default function Quiz({ questions, onBack }) {
       if (e.key === " ") {
         e.preventDefault();
         if (picked !== null && !done && !locked) next();
-        else if (picked === null) setShowOptions((s) => !s);
       }
       const num = parseInt(e.key);
       if (num >= 1 && num <= 4 && q && picked === null) {
@@ -78,7 +76,7 @@ export default function Quiz({ questions, onBack }) {
         <img src={q.img} alt="Vilt" />
       </div>
 
-      <div className="options" style={{ visibility: showOptions || picked !== null ? "visible" : "hidden" }}>
+      <div className="options">
         {q.options.map((opt, i) => {
           let cls = "opt";
           if (picked !== null) {
