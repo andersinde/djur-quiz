@@ -1,0 +1,475 @@
+{
+  "hjortdjur": [
+    {
+      "namn": "Dovhjort",
+      "kategorier": ["hjort", "hind", "kalv"],
+      "liknande": ["kronhjort", "rådjur", "vitsvanshjort"]
+    },
+    {
+      "namn": "Kronhjort",
+      "kategorier": ["hjort", "hind", "kalv"],
+      "liknande": ["dovhjort", "rådjur", "vitsvanshjort"]
+    },
+    {
+      "namn": "Ren",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Rådjur",
+      "kategorier": ["bock", "get", "kid"],
+      "liknande": ["vitsvanshjort", "kronhjort", "dovhjort"]
+    },
+    {
+      "namn": "Vitsvanshjort",
+      "kategorier": [],
+      "liknande": ["rådjur", "kronhjort", "dovhjort"]
+    },
+    {
+      "namn": "Älg",
+      "kategorier": ["tjur", "ko", "kviga", "kalv"],
+      "liknande": []
+    }
+  ],
+  "gnagare": [
+    {
+      "namn": "Bisam",
+      "kategorier": [],
+      "liknande": ["bäver"]
+    },
+    {
+      "namn": "Bäver",
+      "kategorier": [],
+      "liknande": ["bisam"]
+    },
+    {
+      "namn": "Ekorre",
+      "kategorier": [],
+      "liknande": []
+    }
+  ],
+  "hardjur": [
+    {
+      "namn": "Fälthare",
+      "kategorier": [],
+      "liknande": ["skogshare"]
+    },
+    {
+      "namn": "Skogshare",
+      "kategorier": ["sommardräkt", "vinterdräkt"],
+      "liknande": ["fälthare"]
+    },
+    {
+      "namn": "Vildkanin",
+      "kategorier": [],
+      "liknande": []
+    }
+  ],
+  "sälar": [
+    {
+      "namn": "Gråsäl",
+      "kategorier": [],
+      "liknande": ["knubbsäl", "vikare"]
+    },
+    {
+      "namn": "Knubbsäl",
+      "kategorier": [],
+      "liknande": ["gråsäl", "vikare"]
+    },
+    {
+      "namn": "Vikare",
+      "kategorier": [],
+      "liknande": ["gråsäl", "knubbsäl"]
+    }
+  ],
+  "mårddjur": [
+    {
+      "namn": "Grävling",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Hermelin",
+      "kategorier": ["sommardräkt", "vinterdräkt"],
+      "liknande": ["småvessla"]
+    },
+    {
+      "namn": "Iller",
+      "kategorier": [],
+      "liknande": ["mink"]
+    },
+    {
+      "namn": "Järv",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Mink",
+      "kategorier": [],
+      "liknande": ["iller", "utter", "skogsmård"]
+    },
+    {
+      "namn": "Skogsmård",
+      "kategorier": [],
+      "liknande": ["mink"]
+    },
+    {
+      "namn": "Småvessla",
+      "kategorier": ["sommardräkt", "vinterdräkt"],
+      "liknande": ["hermelin"]
+    },
+    {
+      "namn": "Utter",
+      "kategorier": [],
+      "liknande": ["mink"]
+    }
+  ],
+  "övriga_rovdjur": [
+    {
+      "namn": "Brunbjörn",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Fjällräv",
+      "kategorier": ["sommardräkt", "vinterdräkt"],
+      "liknande": ["rödräv"]
+    },
+    {
+      "namn": "Lodjur",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Mårdhund",
+      "kategorier": [],
+      "liknande": ["grävling"]
+    },
+    {
+      "namn": "Rödräv",
+      "kategorier": [],
+      "liknande": ["fjällräv"]
+    },
+    {
+      "namn": "Varg",
+      "kategorier": [],
+      "liknande": []
+    }
+  ],
+  "övriga_däggdjur": [
+    {
+      "namn": "Mufflon",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Mullvad",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Myskoxe",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Vildsvin",
+      "kategorier": ["galt", "sugga", "kulting"],
+      "liknande": []
+    }
+  ],
+  "dykänder": [
+    {
+      "namn": "Alfågel",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Bergand",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["vigg"]
+    },
+    {
+      "namn": "Brunand",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Ejder",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Knipa",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Salskrake",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["storskrake", "småskrake"]
+    },
+    {
+      "namn": "Sjöorre",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["svärta"]
+    },
+    {
+      "namn": "Småskrake",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["storskrake", "salskrake"]
+    },
+    {
+      "namn": "Storskrake",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["småskrake", "salskrake"]
+    },
+    {
+      "namn": "Svärta",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["sjöorre"]
+    },
+    {
+      "namn": "Vigg",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["bergand"]
+    }
+  ],
+  "simänder": [
+    {
+      "namn": "Bläsand",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Gräsand",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["snatterand", "skedand", "kricka"]
+    },
+    {
+      "namn": "Kricka",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["årta", "skedand", "gräsand", "snatterand"]
+    },
+    {
+      "namn": "Skedand",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["gräsand", "kricka", "snatterand"]
+    },
+    {
+      "namn": "Snatterand",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["gräsand", "skedand", "kricka"]
+    },
+    {
+      "namn": "Stjärtand",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Årta",
+      "kategorier": ["hane", "hona"],
+      "liknande": ["kricka"]
+    }
+  ],
+  "gäss": [
+    {
+      "namn": "Bläsgås",
+      "kategorier": [],
+      "liknande": ["fjällgås"]
+    },
+    {
+      "namn": "Fjällgås",
+      "kategorier": [],
+      "liknande": ["bläsgås"]
+    },
+    {
+      "namn": "Grågås",
+      "kategorier": [],
+      "liknande": ["sädgås", "spetsbergsgås"]
+    },
+    {
+      "namn": "Kanadagås",
+      "kategorier": [],
+      "liknande": ["vitkindad gås"]
+    },
+    {
+      "namn": "Prutgås",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Spetsbergsgås",
+      "kategorier": [],
+      "liknande": ["sädgås", "grågås"]
+    },
+    {
+      "namn": "Sädgås",
+      "kategorier": [],
+      "liknande": ["grågås", "spetsbergsgås"]
+    },
+    {
+      "namn": "Vitkindad gås",
+      "kategorier": [],
+      "liknande": ["kanadagås"]
+    }
+  ],
+  "hönsfåglar": [
+    {
+      "namn": "Dalripa",
+      "kategorier": ["tupp", "höna", "vinterdräkt", "sommardräkt"],
+      "liknande": ["fjällripa"]
+    },
+    {
+      "namn": "Fasan",
+      "kategorier": ["tupp", "höna"],
+      "liknande": []
+    },
+    {
+      "namn": "Fjällripa",
+      "kategorier": ["tupp", "höna", "vinterdräkt", "sommardräkt"],
+      "liknande": ["dalripa"]
+    },
+    {
+      "namn": "Järpe",
+      "kategorier": ["tupp", "höna"],
+      "liknande": ["orre", "tjäder"]
+    },
+    {
+      "namn": "Orre",
+      "kategorier": ["tupp", "höna"],
+      "liknande": ["järpe", "tjäder"]
+    },
+    {
+      "namn": "Rapphöna",
+      "kategorier": ["tupp", "höna"],
+      "liknande": []
+    },
+    {
+      "namn": "Tjäder",
+      "kategorier": ["tupp", "höna"],
+      "liknande": ["järpe", "orre"]
+    }
+  ],
+  "måsfåglar": [
+    {
+      "namn": "Fiskmås",
+      "kategorier": [],
+      "liknande": ["skrattmås"]
+    },
+    {
+      "namn": "Gråtrut",
+      "kategorier": [],
+      "liknande": ["havstrut"]
+    },
+    {
+      "namn": "Havstrut",
+      "kategorier": [],
+      "liknande": ["gråtrut"]
+    },
+    {
+      "namn": "Skrattmås",
+      "kategorier": [],
+      "liknande": ["fiskmås"]
+    }
+  ],
+  "kråkfåglar": [
+    {
+      "namn": "Kaja",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Korp",
+      "kategorier": [],
+      "liknande": ["kråka", "råka"]
+    },
+    {
+      "namn": "Kråka",
+      "kategorier": [],
+      "liknande": ["råka", "korp"]
+    },
+    {
+      "namn": "Nötskrika",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Råka",
+      "kategorier": [],
+      "liknande": ["kråka", "korp"]
+    },
+    {
+      "namn": "Skata",
+      "kategorier": [],
+      "liknande": []
+    }
+  ],
+  "övriga_fåglar": [
+    {
+      "namn": "Amerikansk kopparand",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Björktrast",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Enkelbeckasin",
+      "kategorier": [],
+      "liknande": ["morkulla"]
+    },
+    {
+      "namn": "Gravand",
+      "kategorier": ["hane", "hona"],
+      "liknande": []
+    },
+    {
+      "namn": "Knölsvan",
+      "kategorier": [],
+      "liknande": ["sångsvan"]
+    },
+    {
+      "namn": "Morkulla",
+      "kategorier": [],
+      "liknande": ["enkelbeckasin"]
+    },
+    {
+      "namn": "Ringduva",
+      "kategorier": [],
+      "liknande": ["skogsduva"]
+    },
+    {
+      "namn": "Skäggdopping",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Smålom",
+      "kategorier": [],
+      "liknande": ["storlom"]
+    },
+    {
+      "namn": "Sothöna",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Storlom",
+      "kategorier": [],
+      "liknande": ["smålom"]
+    },
+    {
+      "namn": "Storskarv",
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Sångsvan",
+      "kategorier": [],
+      "liknande": ["knölsvan"]
+    }
+  ]
+}
