@@ -471,5 +471,259 @@
       "kategorier": [],
       "liknande": ["knölsvan"]
     }
+  ],
+  "jakthundar": [
+    {
+      "namn": "Alpenländische dachsbracke",
+      "typ": "drivande",
+      "vilt": ["klövvilt"],
+      "kategorier": [],
+      "liknande": ["drever"]
+    },
+    {
+      "namn": "Bayersk viltspårhund",
+      "typ": "viltspårhund",
+      "vilt": ["klövvilt"],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Beagle",
+      "typ": "drivande",
+      "vilt": ["hare"],
+      "kategorier": [],
+      "liknande": ["drever"]
+    },
+    {
+      "namn": "Border Collie",
+      "typ": "",
+      "vilt": [],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Breton",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["pointer", "engelsk setter", "irländsk setter"]
+    },
+    {
+      "namn": "Drever",
+      "typ": "drivande",
+      "vilt": ["rådjur", "hjort", "hare"],
+      "kategorier": [],
+      "liknande": ["tax", "beagle", "alpenländische dachsbracke"]
+    },
+    {
+      "namn": "Engelsk setter",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["irländsk setter", "pointer", "breton"]
+    },
+    {
+      "namn": "Finsk spets",
+      "typ": "skällande fågelhund",
+      "vilt": ["tjäder", "orre"],
+      "kategorier": [],
+      "liknande": ["norrbottenspets"]
+    },
+    {
+      "namn": "Finsk stövare",
+      "typ": "drivande",
+      "vilt": ["hare", "räv"],
+      "kategorier": [],
+      "liknande": ["hamiltonstövare", "smålandsstövare", "gotlandsstövare"]
+    },
+    {
+      "namn": "Flat coated retriever",
+      "typ": "apporterande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["labrador retriever", "golden retriever", "nova scotia duck tolling retriever"]
+    },
+    {
+      "namn": "Golden retriever",
+      "typ": "apporterande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["labrador retriever", "flat coated retriever", "nova scotia duck tolling retriever"]
+    },
+    {
+      "namn": "Gotlandsstövare",
+      "typ": "drivande",
+      "vilt": ["hare", "räv"],
+      "kategorier": [],
+      "liknande": ["hamiltonstövare", "finsk stövare", "smålandsstövare"]
+    },
+    {
+      "namn": "Gråhund",
+      "typ": "ställande",
+      "vilt": ["älg"],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Hamiltonstövare",
+      "typ": "drivande",
+      "vilt": ["hare", "räv"],
+      "kategorier": [],
+      "liknande": ["finsk stövare", "smålandsstövare", "gotlandsstövare"]
+    },
+    {
+      "namn": "Hälleforshund",
+      "typ": "ställande",
+      "vilt": ["älg"],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Irländsk setter",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["engelsk setter", "pointer", "breton"]
+    },
+    {
+      "namn": "Jaktcocker spaniel",
+      "typ": "stötande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["jaktspringer spaniel"]
+    },
+    {
+      "namn": "Jaktspringer spaniel",
+      "typ": "stötande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["jaktcocker spaniel"]
+    },
+    {
+      "namn": "Jack russell terrier",
+      "typ": "grythund",
+      "vilt": ["räv", "grävling"],
+      "kategorier": [],
+      "liknande": ["tysk jaktterrier"]
+    },
+    {
+      "namn": "Jämthund",
+      "typ": "ställande",
+      "vilt": ["älg", "vildsvin", "björn"],
+      "kategorier": [],
+      "liknande": ["karelsk björnhund"]
+    },
+    {
+      "namn": "Karelsk björnhund",
+      "typ": "ställande",
+      "vilt": ["älg", "vildsvin", "björn"],
+      "kategorier": [],
+      "liknande": ["jämthund"]
+    },
+    {
+      "namn": "Korthårig vorsteh",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["strävhårig vorsteh", "långhårig vorsteh"]
+    },
+    {
+      "namn": "Långhårig vorsteh",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["strävhårig vorsteh", "korthårig vorsteh"]
+    },
+    {
+      "namn": "Labrador retriever",
+      "typ": "apporterande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["golden retriever", "flat coated retriever", "nova scotia duck tolling retriever"]
+    },
+    {
+      "namn": "Münsterländer",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["breton", "pointer"]
+    },
+    {
+      "namn": "Norrbottenspets",
+      "typ": "skällande fågelhund",
+      "vilt": ["tjäder", "orre"],
+      "kategorier": [],
+      "liknande": ["finsk spets"]
+    },
+    {
+      "namn": "Nova scotia duck tolling retriever",
+      "typ": "apporterande",
+      "vilt": ["fågel"],
+      "kategorier": [],
+      "liknande": ["labrador retriever", "golden retriever", "flat coated retriever"]
+    },
+    {
+      "namn": "Plotthund",
+      "typ": "drivande",
+      "vilt": ["vildsvin"],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Pointer",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["engelsk setter", "irländsk setter", "breton"]
+    },
+    {
+      "namn": "Smålandsstövare",
+      "typ": "drivande",
+      "vilt": ["hare", "räv"],
+      "kategorier": [],
+      "liknande": ["hamiltonstövare", "finsk stövare", "gotlandsstövare"]
+    },
+    {
+      "namn": "Strävhårig vorsteh",
+      "typ": "stående fågelhund",
+      "vilt": ["skogshöns", "fälthöns", "morkulla"],
+      "kategorier": [],
+      "liknande": ["korthårig vorsteh", "långhårig vorsteh"]
+    },
+    {
+      "namn": "Tax",
+      "typ": "drivande",
+      "vilt": ["rådjur", "hjort", "hare", "räv", "grävling"],
+      "kategorier": ["strävhårig", "korthårig", "långhårig"],
+      "liknande": ["drever"]
+    },
+    {
+      "namn": "Tysk jaktterrier",
+      "typ": "grythund",
+      "vilt": ["räv", "grävling"],
+      "kategorier": [],
+      "liknande": ["jack russell terrier"]
+    },
+    {
+      "namn": "Wachtel",
+      "typ": "stötande",
+      "vilt": ["klövvilt", "fågel"],
+      "kategorier": [],
+      "liknande": []
+    },
+    {
+      "namn": "Västsibirisk laika",
+      "typ": "ställande",
+      "vilt": ["älg", "vildsvin", "björn"],
+      "kategorier": [],
+      "liknande": ["östsibirisk laika"]
+    },
+    {
+      "namn": "Östsibirisk laika",
+      "typ": "ställande",
+      "vilt": ["älg", "vildsvin", "björn"],
+      "kategorier": [],
+      "liknande": ["västsibirisk laika"]
+    }
   ]
 }
